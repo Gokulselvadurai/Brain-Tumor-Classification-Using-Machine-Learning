@@ -1,0 +1,5 @@
+Path,label
+./brain-tumor-classification-mri/Training\glioma_tumor,glioma_tumor
+./brain-tumor-classification-mri/Training\meningioma_tumor,meningioma_tumor
+./brain-tumor-classification-mri/Training\no_tumor,no_tumor
+./brain-tumor-classification-mri/Training\pituitary_tumor,pituitary_tumor
