@@ -1,9 +1,5 @@
 # Brain Tumor Classification Using Machine Learning
-
-- Utilized IEEE DataPort to obtain Brain MRI images for the development of a deep learning-based classification model.
-
-- Built a CNN model using Python libraries such as TensorFlow and Keras.  
-
-- Designed custom layers for the proposed model and evaluated it against pre-trained models.  
-
-- Fine-tuned the models and compared their effectiveness and performance using a confusion matrix.  
+- Acquired Brain MRI images from IEEE DataPort to develop a deep learning-based classification model.
+- Implemented a Convolutional Neural Network (CNN) using Python libraries, including TensorFlow and Keras.
+- Designed and integrated custom layers into the proposed model and benchmarked it against pre-trained models.
+- Fine-tuned the models and evaluated their effectiveness using performance metrics, including the confusion matrix.
